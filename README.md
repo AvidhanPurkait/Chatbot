@@ -35,16 +35,20 @@ AWS Lambda is a compute service that lets you run code without provisioning or m
 ### Steps:
 
 ⏩ Open Amazon Lambda Console and create a function by selecting Author from Scratch option and Python 3.9 in Runtime and providing Function Name.
+
 ![Alt text](Screenshots/LAMBDA/1.jpg)
 
 ⏩ Enter the code in the Function Code Section.
+
 ![Alt text](Screenshots/LAMBDA/2.jpg)
 
 ⏩ Configure the Test Event by providing Event Name and JSON Event.
+
 ![Alt text](Screenshots/LAMBDA/3.1.jpg)
 ![Alt text](Screenshots/LAMBDA/3.2.jpg)
 
 ⏩ Test the Code Hook and check the output in the Execution Result tab to verify that the function ran successfully.
+
 ![Alt text](Screenshots/LAMBDA/4.jpg)
 
 ## Amazon Lex Bot Creation 💬
