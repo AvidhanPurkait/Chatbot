@@ -6,29 +6,29 @@ In this project, we will guide you through setting up a highly available and rel
 
 ## Table of Contents
 
- - [System Architecture](#system-architecture-💻)
+ - [System Architecture](#System-Architecture)
 
-• Introduction
+ - [Introduction](#Introduction)
 
-• Lambda Function Creation
+ - [Lambda Function Creation](#Lambda-Function-Creation)
 
-• Amazon Lex Bot Creation
+ - [Amazon Lex Bot Creation](#Amazon-Lex-Bot-Creation)
 
-• Facebook Integration
+ - [Facebook Integration](#Facebook-Integration)
 
-• Snapshots
+ - [Snapshots](#Snapshots)
 
-## System Architecture💻
+## System Architecture
 
 ![Alt text](Screenshots/Architecture.jpg)
 
-## Introduction 🌟
+## Introduction
 
 A chatbot is defined as a conversational application that aids in customer service, engagement, and support by replacing or augmenting human support agents with artificial intelligence (AI) and other automation technologies that can communicate with end-users via chat.
 
 This project aims to deploy a Chatbot on Facebook Messenger using AWS from scratch, leveraging various AWS services, and ensuring high availability, security, and scalability.
 
-## Lambda Function Creation 📝
+## Lambda Function Creation
 
 AWS Lambda is a compute service that lets you run code without provisioning or managing servers. With Lambda, you can run code for virtually any type of application or backend service.
 
@@ -51,7 +51,7 @@ AWS Lambda is a compute service that lets you run code without provisioning or m
 
 ![Alt text](Screenshots/LAMBDA/4.jpg)
 
-## Amazon Lex Bot Creation 💬
+## Amazon Lex Bot Creation
 
 ### Steps:
 
@@ -67,7 +67,7 @@ AWS Lambda is a compute service that lets you run code without provisioning or m
 
 ![Alt text](Screenshots/LEX/3.jpg)
 
-⏩ Create the custom Slot Types and add it to the Intent.
+⏩ Create the custom Slot Types and add them to the Intent.
 
 ![Alt text](Screenshots/LEX/4.jpg)
 
@@ -113,7 +113,7 @@ AWS Lambda is a compute service that lets you run code without provisioning or m
 
 ![Alt text](Screenshots/LEX/16.jpg)
 
-## Facebook Integration 🌐
+## Facebook Integration
 
 ### Steps:
 
@@ -150,7 +150,7 @@ AWS Lambda is a compute service that lets you run code without provisioning or m
 
 ![Alt text](Screenshots/META/9.jpg)
 
-## Snapshots 📱
+## Snapshots
 
 ![Alt text](Screenshots/Messenger/1.jpg)
 ![Alt text](Screenshots/Messenger/2.jpg)
