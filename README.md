@@ -6,7 +6,7 @@ In this project, we will guide you through setting up a highly available and rel
 
 ## Table of Contents
 
- - [System Architecture 💻](#system-architecture-💻)
+ - [System Architecture 💻](##system-architecture-💻)
 
 • Introduction
 
