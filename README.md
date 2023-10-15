@@ -5,8 +5,8 @@ Welcome to the Facebook Integrated Chatbot Using AWS Lex With Lambda Validation 
 In this project, we will guide you through setting up a highly available and reliable chatbot on Facebook Messenger using Amazon Web Services (AWS). Below, you will find detailed instructions for each part of the project.
 
 ## **Project Members**
-  - [Subhajit Panda](https://github.com/SubhajitPanda26)
   - [Avidhan Purkait](https://github.com/AvidhanPurkait)
+  - [Subhajit Panda](https://github.com/SubhajitPanda26)
 
 ## Table of Contents
 
